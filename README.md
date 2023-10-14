@@ -1,3 +1,7 @@
+This is the code from the startup app Wapply I worked on. I used a Firebase backend, and React Native for front end. The application was deployed to the 
+
+
+
 # SyncNow
 SyncNow ReactNative Source Code
 
