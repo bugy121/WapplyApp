@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-loafjobsearch-dev-215803-authRole",
+      "UnauthRoleArn": "arn:aws:iam::332513500121:role/amplify-loafjobsearch-dev-215803-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::332513500121:role/amplify-loafjobsearch-dev-215803-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-loafjobsearch-dev-215803-deployment",
+      "UnauthRoleName": "amplify-loafjobsearch-dev-215803-unauthRole",
+      "StackName": "amplify-loafjobsearch-dev-215803",
+      "StackId": "arn:aws:cloudformation:us-west-1:332513500121:stack/amplify-loafjobsearch-dev-215803/d318f730-4e7d-11ec-8b4a-024861c74783",
+      "AmplifyAppId": "d1s24p67f57yx9"
+    },
+    "categories": {
+      "auth": {
+        "loafjobsearche0a99df0": {}
+      }
+    }
+  }
+}

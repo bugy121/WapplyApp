@@ -1,0 +1,64 @@
+Object {
+    "_redirectEventId": undefined,
+    "apiKey": "AIzaSyDr-U7LjA8fZsi7Utr_yL7jIRfBAtx6xLQ",
+    "appName": "[DEFAULT]",
+    "createdAt": "1635394234047",
+    "displayName": undefined,
+    "email": "rx@gmail.com",
+    "emailVerified": false,
+    "isAnonymous": false,
+    "lastLoginAt": "1635454873164",
+    "phoneNumber": undefined,
+    "photoURL": undefined,
+    "providerData": Array [
+      Object {
+        "displayName": null,
+        "email": "rx@gmail.com",
+        "phoneNumber": null,
+        "photoURL": null,
+        "providerId": "password",
+        "uid": "rx@gmail.com",
+      },
+    ],
+    "stsTokenManager": Object {
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjE1MjU1NWEyMjM3MWYxMGY0ZTIyZjFhY2U3NjJmYzUwZmYzYmVlMGMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbGVhbnJlY29yZHMtMWYxZGIiLCJhdWQiOiJsZWFucmVjb3Jkcy0xZjFkYiIsImF1dGhfdGltZSI6MTYzNTgyNjE4NywidXNlcl9pZCI6IjIybGtybWpGdjhYcVd0TXlpWVdNY09UeVBwcTIiLCJzdWIiOiIyMmxrcm1qRnY4WHFXdE15aVlXTWNPVHlQcHEyIiwiaWF0IjoxNjM1ODI2MTg3LCJleHAiOjE2MzU4Mjk3ODcsImVtYWlsIjoicnhAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbInJ4QGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.gxI3K1cWys_HxgIQX0zPdkwUiFjq0F8OlN6fO15q9nHmibAW3AxB47zD-YGxkev9lGWmRsLxQKvHZ9prFvF16hiLfqrQKdg7h0NVXJ5UZF4ECvp_48oGhIA_VVvAVA7nb6ixBapjhMIaTzFi5FkcziG_0K4EfZFo_sYTnOquhu09OYfaDehpYjWewH4BGc_LYBIkYPOOJxP8ES-d4zjXrqdiwuryRK1dXfhwfBi0Dh9SF9eqy5a51ciGcGhQ2qogff4A-kV7s0b6IzM-li9o2VPt1z09O0y0iCLKgF94YIRaZ8lxE4BViKNxVhNVx16ychkuOqqMrT3vkPXs8Mt-2w",
+      "expirationTime": 1635829787644,
+      "refreshToken": "AFxQ4_rg9AFA9lS_xH8ucQVfvFMQlaEWhZlaugdE3cu9CKAWyfff1L-XLERvP_zdfh6UIsaBVhJBbL2saJ_fXCkRV5hWrxPzYE2kMp93h4Mh7Kc4EYfNP1q7EDRSzokvrIYW1pjwuNW0O9Inwi2qywCxMqVQdIjkcC8he9TRwr4Ce-UNgXLZ2Z9FcFfCkVx679w6VPLta6ZO9NeZMy1SWMBK8XdUlYSS4w",
+    },
+    "tenantId": undefined,
+    "uid": "22lkrmjFv8XqWtMyiYWMcOTyPpq2",
+  }
+  Logged in as:  rx@gmail.com
+
+
+  Object {
+    "_redirectEventId": undefined,
+    "apiKey": "AIzaSyDr-U7LjA8fZsi7Utr_yL7jIRfBAtx6xLQ",
+    "appName": "[DEFAULT]",
+    "createdAt": "1635826283009",
+    "displayName": undefined,
+    "email": "sugardaddy@gmail.com",
+    "emailVerified": false,
+    "isAnonymous": false,
+    "lastLoginAt": "1635826283009",
+    "phoneNumber": undefined,
+    "photoURL": undefined,
+    "providerData": Array [
+      Object {
+        "displayName": null,
+        "email": "sugardaddy@gmail.com",
+        "phoneNumber": null,
+        "photoURL": null,
+        "providerId": "password",
+        "uid": "sugardaddy@gmail.com",
+      },
+    ],
+    "stsTokenManager": Object {
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjE1MjU1NWEyMjM3MWYxMGY0ZTIyZjFhY2U3NjJmYzUwZmYzYmVlMGMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbGVhbnJlY29yZHMtMWYxZGIiLCJhdWQiOiJsZWFucmVjb3Jkcy0xZjFkYiIsImF1dGhfdGltZSI6MTYzNTgyNjI4MywidXNlcl9pZCI6IkRWR1dUUVd3VmJTRWJWR0t4eTR3bXpISXlkNzMiLCJzdWIiOiJEVkdXVFFXd1ZiU0ViVkdLeHk0d216SEl5ZDczIiwiaWF0IjoxNjM1ODI2MjgzLCJleHAiOjE2MzU4Mjk4ODMsImVtYWlsIjoic3VnYXJkYWRkeUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsic3VnYXJkYWRkeUBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.dnczuYLRW1QBID7XdVJ9SBn4u24WBJn9JW2Sb-dah4QD6Rum6-nCxVcBcJOwReqLqYbVwwwW4Qf7ciBoAVdqaSquE-4dmpTpEMAo39s93zqykbSx6U8W63FwVvNO0a2TWy8aBYdHIjfagATnSJlmdE7XFGHmNQeAtWPQhzkl6NlVNSJmeK4gGU-6vAhzMxqdFcpsfj-7AHNpcOaN4NiMRS58SgdNN9Upzwg0WuCumpX7DvfxSnDuBRUdLt3Shb8RWkoZPliZU8T6GIp3Ta8wZlDpbRhhPaAAoVdhUQrcM3SdSItrz1y2_y2Wq1f5Gz6ed_FXdomZgZrgBzVmGGA8Vw",
+      "expirationTime": 1635829883553,
+      "refreshToken": "AFxQ4_p_hdq8MuYF1MXOEqdC3mROtVbGXTlY4fVmX-QVn7ZHZymfPWLpyP9K5OCY1ShP_Qv0JOEz-OkNNWh2e7Fe74_J9l9LH4X5_mpIdwa-vWH4kj2xC6v5G0xODg5-fVCElMt8Hsrl6FNA3u5PF4ym6f35yqZHwziXuEhls7h_jrSXAUpAaXD7JUvgGz11Yj9TPzP67vlRi0m9Jm7clKyyhbUjbGx1zw",
+    },
+    "tenantId": undefined,
+    "uid": "DVGWTQWwVbSEbVGKxy4wmzHIyd73",
+  }
+  sugardaddy@gmail.com

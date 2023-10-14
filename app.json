@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "SyncNow",
+    "slug": "SyncNow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/wapply-logo-gradient.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/wapply-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "App needs location for profile",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "App needs location for profile",
+        "NSLocationAlwaysUsageDescription": "App needs location for profile",
+        "UIUserInterfaceStyle": "Light"
+      },
+      "userInterfaceStyle": "light",
+      "bundleIdentifier": "com.aloaf.wapplyprod"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "userInterfaceStyle": "light",
+      "package": "com.leanrecords.SyncNow"
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    }
+  }
+}
